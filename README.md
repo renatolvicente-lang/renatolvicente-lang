@@ -44,6 +44,6 @@
 </div>
 
 ###
-
-
+<h1> Contact </h1>
+[![Gmail](https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:renato_l_vicente@estudante.sesisenai.org.br)
 ###
