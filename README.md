@@ -13,6 +13,7 @@
 <p align="left">✨ Creating bugs since 2024<br>📚 I'm currently learning ...<br/>Exploring the world of Linux...</p>
 
 ###
+![Image](https://github.com/user-attachments/assets/652aee9f-9ccd-4bd2-a91b-94a99b705094)
 
 <h2 align="left">I code with HTML5 , CSS3 , Python and C</h2>
 
@@ -47,6 +48,5 @@
 
 ###
 
-![Image](https://github.com/user-attachments/assets/652aee9f-9ccd-4bd2-a91b-94a99b705094)
 
 ###
