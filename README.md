@@ -55,7 +55,7 @@ I'm a Systems Development student and a computer and smartphone maintenance tech
 
 - [**RailLLife**](https://github.com/renatolvicente-lang/raillife) — PHP project.
 - [**Date**](https://github.com/renatolvicente-lang/date) — Interactive invitation website built with HTML, CSS and JavaScript.
-- [**Sensor Presence**](https://github.com/renatolvicente-lang/sensor_presenca) — Presence detection project.
+- [**Sensor Temperature**](https://github.com/renatolvicente-lang/sensor_temp) — Temperature measurement project.
 - [**Soil Moisture Sensor**](https://github.com/renatolvicente-lang/sensor_umidade_solo) — An introduction to soil moisture sensing and IoT.
 - [**Ultrasonic Sensor**](https://github.com/renatolvicente-lang/sensor_ultrasonico) — Ultrasonic sensor experiments.
 
