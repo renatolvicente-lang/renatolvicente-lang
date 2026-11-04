@@ -1,52 +1,73 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+# Hey! I'm Renato Vicente 👋
 
-###
+### Web Developer | Systems Development Student | IT Technician 🇧🇷
 
-<p align="left">My name is Renato and I'm a Web Developer and a technician in cell phone and computer maintenance, from Brazil</p>
+I'm a Systems Development student and a computer and smartphone maintenance technician. I'm passionate about technology, programming and understanding how things work.
 
-###
+---
 
-<h2 align="left">About me</h2>
+## 👨‍💻 About Me
 
-###
+-  Currently studying **Systems Development**
+-  Learning and building projects in **Web Development**
+-  Technician in **Computer and Smartphone Maintenance**
+-  Exploring the **Linux ecosystem** and open-source technologies
+-  Interested in **IoT, electronics and embedded systems**
+-  Always learning, experimenting and building new things
 
-<p align="left">✨ Creating bugs since 2024<br>📚 I'm currently learning ...<br/>Exploring the world of Linux...</p>
+---
 
-###
+##  Technologies & Tools
+
+
+### Programming Languages
+
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+</p>
+
+### Tools & Environment
+
+<p>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
+</p>
+
+
+## 🐧 Exploring Linux
+<div align="center">
+  
 ![Image](https://github.com/user-attachments/assets/652aee9f-9ccd-4bd2-a91b-94a99b705094)
 
-<h2 align="left">I code with HTML5 , CSS3 , Python and C</h2>
-
-###
-
-<p align="left">Hello World!!</p>
-
-###
-
-###
-
-<div align="left">
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kalilinux/kalilinux-original.svg"  height = "40" alt = "Kali logo"/>
-  <img width = "12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-original.svg" height="40" alt= "Debian logo"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" height="40" alt = "C logo"/>
-  <img whidth="12"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height = "40" alt="Python logo"/>
-  <img width = "12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="40" alt="JS logo" />
-          
 </div>
 
 
+##  Featured Projects
 
-###
+- [**RailLLife**](https://github.com/renatolvicente-lang/raillife) — PHP project.
+- [**Date**](https://github.com/renatolvicente-lang/date) — Interactive invitation website built with HTML, CSS and JavaScript.
+- [**Sensor Presence**](https://github.com/renatolvicente-lang/sensor_presenca) — Presence detection project.
+- [**Soil Moisture Sensor**](https://github.com/renatolvicente-lang/sensor_umidade_solo) — An introduction to soil moisture sensing and IoT.
+- [**Ultrasonic Sensor**](https://github.com/renatolvicente-lang/sensor_ultrasonico) — Ultrasonic sensor experiments.
+
+---
 
 
-###
+<div align="center">
+
+### Thanks for visiting my profile! 
+
+**Always learning. Always building.**
+
+
+
+</div>
