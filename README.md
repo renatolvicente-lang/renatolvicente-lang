@@ -4,7 +4,7 @@
 
 I'm a Systems Development student and a computer and smartphone maintenance technician. I'm passionate about technology, programming and understanding how things work.
 
----
+
 
 ## 👨‍💻 About Me
 
@@ -15,7 +15,7 @@ I'm a Systems Development student and a computer and smartphone maintenance tech
 -  Interested in **IoT, electronics and embedded systems**
 -  Always learning, experimenting and building new things
 
----
+
 
 ##  Technologies & Tools
 
